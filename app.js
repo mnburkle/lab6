@@ -10,6 +10,8 @@ var handlebars = require('express3-handlebars')
 
 var index = require('./routes/index');
 var project = require('./routes/project');
+var palette = require('./routes/palette');
+
 // Example route
 // var user = require('./routes/user');
 
